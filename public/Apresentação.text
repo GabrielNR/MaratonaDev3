@@ -1,0 +1,67 @@
+          COMO PROGRAMAR
+
+* Aprender a linguagem
+* Ter um ambiente de desenvolvimento
+* codar
+
+            BAIXAR
+
+* Vscode
+* Google chrome
+
+        FRONT-END E BACK-END
+        CLIENTE   E SERVIDOR
+
+
+    COMO É FEITA A COMUNICAÇÃO
+
+* hypertext transfer Protocol(HTTP)
+* URL
+* Troca de Dados
+
+
+        HTML
+
+hypertext
+texto que contem links para outros documentos.
+
+        MARKUP
+texto conterá marcações
+<tags>
+
+        LANGUAGEM
+para me comuinicar de certa maneira. Sintaxe especifica para escrita.
+
+
+
+        BACK-END
+
+* servidor
+* Responsanvel por
+        * Regras do negocio
+        * Dados
+        * Receber pedidos do cliente
+
+        Node.js
+
+*intepretador JS
+
+
+        BANCO DE Dados
+
+* Dados nao podem ficar na aplicação
+* Perda / corromper
+* Segurança
+* Responsabilidades
+
+        SQL 
+
+* Structured Query LAnguage(linguagem de Consulta Estruturada)
+* Não é uma linguagem de programação7
+* Linguagem para criar as tabelas, buscar os dados nas tabelas, atualizar ou apagar.
+
+        POSTGRES
+
+* Sistema Gerenciador de Banco de Dados Relacional(SGBDR)
+* Open Source
+* Gratuito
