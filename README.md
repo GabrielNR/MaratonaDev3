@@ -31,6 +31,6 @@ Um aplicativo da web simples que possui o objetivo de criar um banco de dados de
 
 ```jsx
 $ git clone https://github.com/robertokbr/Donate-Blood.git
-$ npm i
+$ npm install
 $ npm start
 ```
