@@ -1,5 +1,5 @@
 
-<img src="/public/layout/lista para doar.png"
+<img src="/public/layout/lista para doar.png" />
 
 # DOE Sangue
 
