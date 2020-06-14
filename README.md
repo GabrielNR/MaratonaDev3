@@ -1,5 +1,7 @@
+<p align="center"> 
+ <img src="/public/layout/lista para doar.png"/>
+</p>
 
-<img src="/public/layout/lista para doar.png" style: align-center/>
 
 # DOE Sangue
 
