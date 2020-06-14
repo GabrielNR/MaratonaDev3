@@ -1,4 +1,6 @@
 
+<img src="/public/layout/doe.png"/>
+<img src="/public/layout/lista para doar.png"
 
 # DOE Sangue
 
