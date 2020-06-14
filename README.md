@@ -1,5 +1,4 @@
 
-<img src="/public/layout/doe .png"/ width: 50%>
 <img src="/public/layout/lista para doar.png"
 
 # DOE Sangue
