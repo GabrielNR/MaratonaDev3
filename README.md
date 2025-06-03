@@ -30,7 +30,7 @@ Um aplicativo da web simples que possui o objetivo de criar um banco de dados de
 ### Como Usar 
 
 ```jsx
-$ git clone https://github.com/GabrielNR/Donate-Blood.git
+$ git clone https://github.com/GabrielNR/MaratonaDev3.git
 $ npm install
 $ npm start
 ```
